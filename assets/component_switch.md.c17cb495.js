@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./app.01496536.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"component/checkbox.md"}'),c={name:"component/checkbox.md"};function a(r,n,s,p,_,i){return o(),t("div")}var f=e(c,[["render",a]]);export{d as __pageData,f as default};
