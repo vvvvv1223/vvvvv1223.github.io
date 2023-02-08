@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.dc292821.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"component/message.md"}'),o={name:"component/message.md"};function s(r,n,c,p,m,_){return t(),a("div")}var f=e(o,[["render",s]]);export{i as __pageData,f as default};
